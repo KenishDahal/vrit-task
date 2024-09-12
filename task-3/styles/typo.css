@@ -1,0 +1,42 @@
+button {
+    border: 0;
+  }
+  
+  .h1 {
+    font-size: 27.65px;
+    font-weight: 700;
+    line-height: 120%;
+    color: #3D3E48;
+  }
+  
+  .h2 {
+    font-size: 19.2px;
+    font-weight: 700;
+    line-height: 180%;
+    color: #3D3E48;
+  }
+  
+  .body-1 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 180%;
+    color: #3D3E48;
+  }
+  
+  .body-2 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 180%;
+    color: #3D3E48;
+  }
+  
+  .body-1-bold {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 180%;
+    color: #295943;
+  }
+  
+  body {
+    margin: 0px;
+  }
